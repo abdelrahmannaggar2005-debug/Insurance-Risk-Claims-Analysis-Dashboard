@@ -1,13 +1,35 @@
 # Insurance-Risk-Claims-Analysis-Dashboard
 
-Project description.
+Overview
 
-I developed a comprehensive Power BI dashboard analyzing 37,542 insurance policies and $187.8M in claims. Key insights include total policies by car make/use/age/education, claim amounts by marital status, average claim frequency (0.5), and distributions across demographics (gender, kids driving, coverage zones). Interactive slicers and visuals enable risk profiling, claims trend identification, and data-driven decisions for underwriting and pricing optimization.
+An interactive dashboard analyzing insurance claims data to assess risk factors like age, BMI, smoking status, and region. Built to help insurers optimize pricing and claims processing.
 
-Skills and deliverables
+Key Features
 
--Microsoft Excel
+Heatmaps for risk distribution by demographics.
 
--Microsoft Power BI
+Charts showing claims by age group and charges breakdown.
 
--Data Preprocessing
+Predictive risk scoring with simple ML models.
+
+Technologies Used
+
+Power BI for visualizations and slicers.
+
+Python (Pandas, Scikit-learn) for EDA and modeling.
+
+SQL for querying large datasets.
+
+Setup Instructions
+
+Load insurance_claims.csv from /data/.
+
+Open Insurance_Dashboard.pbix and update connections.
+
+Run eda_analysis.py for initial insights.
+
+Key Insights
+
+Claims spike for ages 50+ and smokers; adjust premiums accordingly.
+
+Regional variations suggest localized risk models.
