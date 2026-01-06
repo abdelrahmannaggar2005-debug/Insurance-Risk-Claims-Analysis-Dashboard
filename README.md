@@ -9,7 +9,7 @@ The project combines:
 - **Machine Learning risk modeling (optional)**  
 - **Interactive dashboard visualization**
 
-Tools used include Python, SQL, and Power BI.
+Tools used include Power Query and Power BI.
 
 ---
 
@@ -31,8 +31,6 @@ The dataset contains structured insurance policy and claim information. Although
 
 | Tool | Purpose |
 |------|---------|
-| **Python (Pandas, Scikit-learn)** | Data cleaning, EDA, basic risk scoring |
-| **SQL** | Querying and summarizing large datasets |
 | **Power BI** | Creating interactive dashboards, slicers, visuals |
 | **Power Query Editor** | Data transformation and preprocessing |
 
@@ -126,10 +124,6 @@ Insurance-Risk-Claims-Analysis-Dashboard/
 ├── data/
 │ └── insurance_policies_data.xlsx
 │
-├── python_scripts/
-│ ├── eda_analysis.py
-│ └── risk_modeling.py (optional)
-│
 ├── dashboard/
 │ └── powerbi1.pbix
 │
@@ -165,5 +159,5 @@ For feedback, questions, or collaboration:
 
 **Name:** Abdelrahman Ahmed  
 **Role:** Data Analyst  
-**LinkedIn:**(https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-**Email:** abdelrahman.naggar2005@gmail.com
+**LinkedIn:**[Abdelrahman_LinkedIn](https://www.linkedin.com/in/abdelrahman-ahmed-852b69290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+**Email:** [abdelrahman.naggar2005@gmail.com]
