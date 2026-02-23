@@ -2,6 +2,8 @@
 
 ## 🧠 Project Overview
 
+<img width="1374" height="814" alt="Screenshot 2025-12-29 142136" src="https://github.com/user-attachments/assets/08f152a6-7579-4479-bd74-1cf071f41ef4" />
+
 This repository contains an end-to-end **insurance claims risk analysis project** built to provide actionable insights for insurance companies. The primary goal is to visualize claim patterns, demographic risk factors, and support data-driven decisions related to pricing, claims processing, and risk assessment.
 
 The project combines:
